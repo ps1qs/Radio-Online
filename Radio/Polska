@@ -35,3 +35,45 @@ http://stream01.zachod.pl:10103/test
 http://51.68.135.155:80/stream
 #EXTINF:-1,Radio Maryja
 http://51.68.135.155:80/stream
+#EXTINF:-1,Open.Fm Po Polsku
+https://stream.open.fm/1
+#EXTINF:-1,Open.Fm Impreza
+https://stream.open.fm/2
+#EXTINF:-1,Open.Fm 80's Hits
+https://stream.open.fm/3
+#EXTINF:-1,Open.Fm We Dwoje
+https://stream.open.fm/4
+#EXTINF:-1,Open.Fm House
+https://stream.open.fm/5
+#EXTINF:-1,Open.Fm Alt Freszzz
+https://stream.open.fm/6
+#EXTINF:-1,Open.Fm Trance
+https://stream.open.fm/7
+#EXTINF:-1,Open.Fm Klub 90
+https://stream.open.fm/8
+#EXTINF:-1,Open.Fm Alt Club
+https://stream.open.fm/9
+#EXTINF:-1,Open.Fm Popularne
+https://stream.open.fm/10
+#EXTINF:-1,Open.Fm 1001 Hits
+https://stream.open.fm/11
+#EXTINF:-1,Open.Fm Impreza PL
+https://stream.open.fm/12
+#EXTINF:-1,Open.Fm Ciężkie Brzmienia
+https://stream.open.fm/13
+#EXTINF:-1,Open.Fm 90's Hits
+https://stream.open.fm/14
+#EXTINF:-1,Open.Fm 100% Dżem
+https://stream.open.fm/15
+#EXTINF:-1,Open.Fm Kids
+https://stream.open.fm/16
+#EXTINF:-1,Open.Fm Po Polsku 60's/70's
+https://stream.open.fm/17
+#EXTINF:-1,Open.Fm Sexy: Soul & R'n'B
+https://stream.open.fm/18
+#EXTINF:-1,Open.Fm Latino Hits
+https://stream.open.fm/19
+#EXTINF:-1,Open.Fm Ballady Wszech Czasów
+https://stream.open.fm/20
+#EXTINF:-1,Open.Fm Disco Polo
+https://stream.open.fm/21
